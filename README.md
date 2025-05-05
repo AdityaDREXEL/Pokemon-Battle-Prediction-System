@@ -89,7 +89,3 @@ The system allows users to input two Pokémon and predicts the winner using trai
 **Aditya Sinha**  
 M.S. in Data Science, Drexel University  
 Email: as5869@drexel.edu
-
-**Samriddhi Singh**  
-M.S. in Data Science, Drexel University  
-Email: ss5675@drexel.edu
